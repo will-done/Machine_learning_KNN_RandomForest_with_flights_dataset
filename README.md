@@ -1,6 +1,7 @@
 # Machine Learning Project: Flight Data Analysis
 
 This repository contains a machine learning project focused on the analysis of flight data, employing both supervised and unsupervised learning methods.
+Here is the notebook I created in the Kaggle environment for this project:  https://www.kaggle.com/code/vildannn/ml-bootcamp-project
 
 *Project Overview*
 This project analyzes flight data from the Kaggle dataset using two key machine learning techniques:
